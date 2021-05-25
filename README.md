@@ -1,17 +1,13 @@
 # multi_image_pdf
 
-A new Flutter project.
+A simple flutter project to create, save and view PDF files inside a Flutter application.
 
-## Getting Started
+![[](https://media.giphy.com/media/NrNMICCs93MPjNRv2D/giphy.gif)
 
-This project is a starting point for a Flutter application.
+You can find the full tutorial here => http://codereis.com/posts/multi-image-pdf/
 
-A few resources to get you started if this is your first Flutter project:
+Packages used;
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pdf_create_view
+* pdf ⇒ To create PDF documents
+* path_provider ⇒ to retrieve the document directory
+* syncfusion_flutter_pdfviewer ⇒ to view the created PDF files
