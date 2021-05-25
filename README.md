@@ -2,7 +2,7 @@
 
 A simple flutter project to create, save and view PDF files inside a Flutter application.
 
-![[](https://media.giphy.com/media/NrNMICCs93MPjNRv2D/giphy.gif)
+![](https://media.giphy.com/media/NrNMICCs93MPjNRv2D/giphy.gif)
 
 You can find the full tutorial here => http://codereis.com/posts/multi-image-pdf/
 
